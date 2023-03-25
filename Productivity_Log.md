@@ -1,6 +1,6 @@
 | Issue Title | Story Points | Issue Link | Status | Assigned To | Assigned On | Completed On | Category | Status Notes |
 |-------------|--------------|------------|--------|-------------|-------------|--------------|----------|--------------|
-|             |              |            |        |             |             |              |          |              |
+| Design Homepage |       8       |      https://github.com/LongchaoDa/webClassSimulation/issues/15      |    In Progress    |      Tanner       |      3/22       |              |          |              |
 |             |              |            |        |             |             |              |          |              |
 |             |              |            |        |             |             |              |          |              |
 |             |              |            |        |             |             |              |          |              |
