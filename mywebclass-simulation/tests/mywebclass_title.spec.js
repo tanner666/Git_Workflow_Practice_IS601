@@ -1,8 +1,9 @@
-// @ts-check
-const { test, expect } = require('@playwright/test')
+//test for creating a homepage user story
+const { test, expect } = require('@playwright/test');
 
-test('Should have MyWebClass.org title', async ({ page }) => {
+test('Website has correct title', async ({ page }) => {
   // Expect a title "to contain" a substring.
-  await page.goto('http://localhost:3000')
-  await expect(page).toHaveTitle('MyWebClass.org')
-})
+  await page.goto('http://localhost:3000'); // replace with your website's URL
+  const title = await page.title();
+  expect(title).toBe('MyWebClass.org');
+});
