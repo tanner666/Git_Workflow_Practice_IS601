@@ -7,10 +7,10 @@
 | Multi-language translation |       3       |      https://github.com/LongchaoDa/webClassSimulation/issues/1      |    Completed    |      Tanner       |      3/20       |      3/25        |     Feature     |       Completed for sprint 1       |
 | Correctness of symbols across language |       3       |      https://github.com/LongchaoDa/webClassSimulation/issues/3      |    Completed    |      Tanner       |      3/20       |      3/25        |     Feature     |       Completed for sprint 1       |
 | Character encoding/ localized content |       8       |      https://github.com/LongchaoDa/webClassSimulation/issues/2      |    Completed    |      Tanner       |      3/20       |      3/25        |     Feature     |       Completed for sprint 1       |
-|             |              |            |        |             |             |              |          |              |
-|             |              |            |        |             |             |              |          |              |
-|             |              |            |        |             |             |              |          |              |
-|             |              |            |        |             |             |              |          |              |
+| PageTitle + content SEO |       3      |      https://github.com/LongchaoDa/webClassSimulation/issues/8      |    Completed    |      Tanner       |      3/23       |      3/25        |     Feature     |       Completed for sprint 1       |
+| URL and Keyword SEO |       8      |      https://github.com/LongchaoDa/webClassSimulation/issues/8      |    In progress    |      Tanner       |      3/23       |      3/-        |     Feature     |       In progress       |
+| Assistive Tech Compatability |       8      |      https://github.com/LongchaoDa/webClassSimulation/issues/11      |    In progrss    |      Tanner       |      3/23       |      3/-        |     Feature     |       Mostly completed, just need tests       |
+| KeyWord Optimization |       3      |      https://github.com/LongchaoDa/webClassSimulation/issues/7      |    In progress    |      Tanner       |      3/23       |      3/-      |     Feature     |       Mostly completed       |
 |             |              |            |        |             |             |              |          |              |
 |             |              |            |        |             |             |              |          |              |
 |             |              |            |        |             |             |              |          |              |
