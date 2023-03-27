@@ -1,12 +1,12 @@
 | Issue Title | Story Points | Issue Link | Status | Assigned To | Assigned On | Completed On | Category | Status Notes |
 |-------------|--------------|------------|--------|-------------|-------------|--------------|----------|--------------|
-| Design Homepage |       8       |      https://github.com/LongchaoDa/webClassSimulation/issues/15      |    In Progress    |      Tanner       |      3/22       |              |          |              |
-|             |              |            |        |             |             |              |          |              |
-|             |              |            |        |             |             |              |          |              |
-|             |              |            |        |             |             |              |          |              |
-|             |              |            |        |             |             |              |          |              |
-|             |              |            |        |             |             |              |          |              |
-|             |              |            |        |             |             |              |          |              |
+| Design Homepage |       8       |      https://github.com/LongchaoDa/webClassSimulation/issues/15      |    Completed    |      Tanner       |      3/20       |      3/26        |     Feature     |       Completed for sprint 1       |
+|      Content Theme/Template       |       8       |      https://github.com/LongchaoDa/webClassSimulation/issues/17      |    Completed    |       Tanner      |       3/20      |       3/26       |      Feature    |       Completed fro srpint 1       |
+|       Design website navigation      |       13       |      https://github.com/LongchaoDa/webClassSimulation/issues/16      |    Completed    |     Tanner        |       3/20      |      3/25        |     Feature     |       sprint 1       |
+| Screen Size Adaptability |       8       |      https://github.com/LongchaoDa/webClassSimulation/issues/14      |    Completed    |      Tanner       |      3/20       |      3/25        |     Feature     |       Completed for sprint 1       |
+| Multi-language translation |       3       |      https://github.com/LongchaoDa/webClassSimulation/issues/1      |    Completed    |      Tanner       |      3/20       |      3/25        |     Feature     |       Completed for sprint 1       |
+| Correctness of symbols across language |       3       |      https://github.com/LongchaoDa/webClassSimulation/issues/3      |    Completed    |      Tanner       |      3/20       |      3/25        |     Feature     |       Completed for sprint 1       |
+| Character encoding/ localized content |       8       |      https://github.com/LongchaoDa/webClassSimulation/issues/2      |    Completed    |      Tanner       |      3/20       |      3/25        |     Feature     |       Completed for sprint 1       |
 |             |              |            |        |             |             |              |          |              |
 |             |              |            |        |             |             |              |          |              |
 |             |              |            |        |             |             |              |          |              |
