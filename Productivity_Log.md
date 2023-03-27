@@ -11,11 +11,11 @@
 | URL and Keyword SEO |       8      |      https://github.com/LongchaoDa/webClassSimulation/issues/8      |    In progress    |      Tanner       |      3/23       |      3/-        |     Feature     |       In progress       |
 | Assistive Tech Compatability |       8      |      https://github.com/LongchaoDa/webClassSimulation/issues/11      |    In progrss    |      Tanner       |      3/23       |      3/-        |     Feature     |       Mostly completed, just need tests       |
 | KeyWord Optimization |       3      |      https://github.com/LongchaoDa/webClassSimulation/issues/7      |    In progress    |      Tanner       |      3/23       |      3/-      |     Feature     |       Mostly completed       |
-|             |              |            |        |             |             |              |          |              |
-|             |              |            |        |             |             |              |          |              |
-|             |              |            |        |             |             |              |          |              |
-|             |              |            |        |             |             |              |          |              |
-|             |              |            |        |             |             |              |          |              |
+| Internal Linking |       3      |      https://github.com/LongchaoDa/webClassSimulation/issues/5      |    Completed    |      Tanner       |      3/23       |      3/25        |     Feature     |       Completed for sprint 1       |
+| Keyboard Navigation |       5      |      https://github.com/LongchaoDa/webClassSimulation/issues/13      |    Completed    |      Tanner       |      3/23       |      3/25        |     Feature     |       Completed for sprint 1       |
+| Visual Impairment Accessibility |       8      |      https://github.com/LongchaoDa/webClassSimulation/issues/10     |    Completed    |      Tanner       |      3/23       |      3/25        |     Feature     |       Completed for sprint 1       |
+| Internationalization assistive compatibility |       5      |      https://github.com/LongchaoDa/webClassSimulation/issues/4     |    Completed    |      Tanner       |      3/23       |      3/25        |     Feature     |       Completed for sprint 1       |
+| Cognitive disability accessibility |       5      |      https://github.com/LongchaoDa/webClassSimulation/issues/12      |    Completed    |      Tanner       |      3/23       |      3/26        |     Feature     |       Completed for sprint 1       |
 |             |              |            |        |             |             |              |          |              |
 |             |              |            |        |             |             |              |          |              |
 |             |              |            |        |             |             |              |          |              |
