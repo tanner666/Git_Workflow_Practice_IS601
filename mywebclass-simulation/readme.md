@@ -63,4 +63,10 @@ Finally, use Playwright to create powerful and reliable automated tests for web 
 
 
 # ADD YOUR PROJECT LINKS BELOW THIS
-https://longchaoda.github.io/webClassSimulation/mywebclass-simulation/src/index.html
+Website: https://longchaoda.github.io/webClassSimulation/mywebclass-simulation/src/index.html
+
+Devops Installation Instructions: https://github.com/LongchaoDa/webClassSimulation/wiki/Instruction-on-installation
+
+Project Documentation: https://github.com/LongchaoDa/webClassSimulation/wiki/Documentation
+
+Project Management Overview: https://github.com/LongchaoDa/webClassSimulation/wiki/Project-management
