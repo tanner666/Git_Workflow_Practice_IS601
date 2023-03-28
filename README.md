@@ -1,7 +1,7 @@
 # webClassSimulation
 webClassTeam for Longchao, Tanner, Hao
 
-Please go to next level of Directory
+Please go to next level of Directory: https://github.com/LongchaoDa/webClassSimulation/tree/main/mywebclass-simulation
 
 Link to our website: https://longchaoda.github.io/webClassSimulation/mywebclass-simulation/src/index.html
 
