@@ -1,5 +1,7 @@
-# webClassSimulation
+# WebClassSimulation
 webClassTeam for Longchao, Tanner, Hao
+
+This is for a class assignment for IS601, where we were tasked to collaborate over GitHub (using a Taskboard, Issues, and Milestones) to create a mock homepage for a website.
 
 Please go to next level of Directory: https://github.com/LongchaoDa/webClassSimulation/tree/main/mywebclass-simulation
 
